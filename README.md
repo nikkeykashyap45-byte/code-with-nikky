@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2235-add-two-integers](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2235-add-two-integers) |
 ## Binary Search
