@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2235-add-two-integers](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
