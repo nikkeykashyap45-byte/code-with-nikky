@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
