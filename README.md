@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1678-goal-parser-interpretation) |
 ## String Matching
 |  |
 | ------- |
