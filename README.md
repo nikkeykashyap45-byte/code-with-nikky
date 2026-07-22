@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Simulation
