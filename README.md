@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1678-goal-parser-interpretation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
 | ------- |
