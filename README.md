@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1528-shuffle-string) |
