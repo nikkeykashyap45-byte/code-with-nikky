@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1470-shuffle-the-array) |
+| [1528-shuffle-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1678-goal-parser-interpretation) |
 ## String Matching
 |  |
