@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1108-defanging-an-ip-address) |
