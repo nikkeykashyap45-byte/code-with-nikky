@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0709-to-lower-case) |
