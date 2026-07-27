@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0709-to-lower-case) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
