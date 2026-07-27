@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
