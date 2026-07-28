@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2235-add-two-integers](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2235-add-two-integers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
