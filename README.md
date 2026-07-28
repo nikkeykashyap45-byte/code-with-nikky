@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0485-max-consecutive-ones) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0796-rotate-string) |
