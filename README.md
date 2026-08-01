@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0242-valid-anagram) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0409-longest-palindrome) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
