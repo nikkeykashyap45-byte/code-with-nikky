@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
