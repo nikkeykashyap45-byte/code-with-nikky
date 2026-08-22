@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0905-sort-array-by-parity) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0930-binary-subarrays-with-sum) |
 ## Quicksort
 |  |
