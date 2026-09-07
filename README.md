@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0414-third-maximum-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0930-binary-subarrays-with-sum) |
@@ -256,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0303-range-sum-query-immutable) |
 | [1476-subrectangle-queries](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1476-subrectangle-queries) |
 <!---LeetCode Topics End-->
