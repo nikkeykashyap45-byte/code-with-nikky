@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0415-add-strings) |
+| [1920-build-array-from-permutation](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
