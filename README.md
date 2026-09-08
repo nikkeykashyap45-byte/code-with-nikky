@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1991-find-the-middle-index-in-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
