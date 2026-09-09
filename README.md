@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0392-is-subsequence) |
