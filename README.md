@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
