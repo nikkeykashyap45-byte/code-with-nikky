@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0268-missing-number) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0303-range-sum-query-immutable) |
 | [1476-subrectangle-queries](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1476-subrectangle-queries) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
