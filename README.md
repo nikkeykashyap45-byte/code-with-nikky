@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0049-group-anagrams) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0074-search-a-2d-matrix) |
