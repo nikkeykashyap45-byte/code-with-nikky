@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0922-sort-array-by-parity-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
