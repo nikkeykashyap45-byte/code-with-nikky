@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0905-sort-array-by-parity) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikkeykashyap45-byte/code-with-nikky/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
